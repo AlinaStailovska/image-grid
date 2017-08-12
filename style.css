@@ -1,0 +1,21 @@
+body,html {
+	height: 100%;
+	width: 100%;
+}
+
+.ba-container {
+	width: 1200px;
+} 
+
+.ba-grid {
+	width: 100%; 
+}
+
+img {
+	width: 100%;
+	/*opacity: 0.01;*/	
+}
+
+.ba-width-1-4-mt {
+	margin-top: 15px;
+}
